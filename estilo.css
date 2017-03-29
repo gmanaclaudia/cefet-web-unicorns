@@ -111,9 +111,10 @@ body {
   margin-left: 12px;
 }
 
-.paragrafo {
+#musica p:nth-of-type(even){
   padding-left: 22px;
 }
+
 
 .destacado {
   color: #004a79;
@@ -128,6 +129,4 @@ body {
   padding: 0;
 }
 
-#paragrafo-destacado {
-  padding-left: 22px;
-}
+
