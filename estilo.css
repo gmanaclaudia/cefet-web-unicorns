@@ -111,7 +111,7 @@ body {
   margin-left: 12px;
 }
 
-#paragrafo {
+.paragrafo {
   padding-left: 22px;
 }
 
@@ -126,4 +126,8 @@ body {
 .destacado p{
   margin: 0;
   padding: 0;
+}
+
+#paragrafo-destacado {
+  padding-left: 22px;
 }
